@@ -1,0 +1,8 @@
+					../../Classes/AppDelegate.cpp \
+					../../Classes/ccogreview.cpp \
+					../../Classes/exampleapplication.cpp \
+					../../Classes/exampleframelistener.cpp \
+					../../Classes/helloogre.cpp \
+					../../Classes/HelloWorldScene.cpp \
+					../../Classes/ogreapp.cpp \
+					../../Classes/skybox.cpp \

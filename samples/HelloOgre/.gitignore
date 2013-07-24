@@ -1,0 +1,11 @@
+
+*.o
+.*.swp
+main
+*.log
+
+bin
+assets
+obj
+gen
+*.so
