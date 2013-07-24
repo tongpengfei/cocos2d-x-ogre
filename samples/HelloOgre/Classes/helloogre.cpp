@@ -2,7 +2,6 @@
 #include "AppMacros.h"
 USING_NS_CC;
 
-#include <macro.h>
 #include <ogreapp.h>
 #include <string>
 using std::string;

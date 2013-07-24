@@ -1,6 +1,5 @@
 #include "AppDelegate.h"
 #include "AppMacros.h"
-#include <macro.h>
 #include <OgreRoot.h>
 #include <helloogre.h>
 
