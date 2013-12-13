@@ -1,9 +1,0 @@
-
-.*.swp
-*.so
-*.o
-*.lo
-*.la
-*.a
-obj
-.deps
